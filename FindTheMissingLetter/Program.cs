@@ -1,4 +1,7 @@
-﻿Console.WriteLine(FindMissingLetter(new char[]{'a', 'b', 'c', 'd', 'f'}));
+﻿using System;
+using System.Collections.Generic;
+
+Console.WriteLine(FindMissingLetter(new char[]{'a', 'b', 'c', 'd', 'f'}));
 Console.WriteLine(FindMissingLetter(new char[] { 'O', 'Q', 'R', 'S' }));
 
 char FindMissingLetter(char[] array)
