@@ -10,7 +10,7 @@ namespace NarcisticNumber.Tests
         [TestCase(1938, ExpectedResult = false)]
         public bool Test153(int input)
         {
-            return Narcissistic.IsNarcissistic(153);
+            return Narcissistic.IsNarcissistic(input);
         }
 
     }
