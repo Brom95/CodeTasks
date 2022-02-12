@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTheMissingLetter", "Fin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NarcissisticNumber", "NarcissisticNumber\NarcissisticNumber.csproj", "{289AC5A3-404D-4DBC-8388-A24F0A526DF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NarcisticNumber.Tests", "NarcisticNumber.Tests\NarcisticNumber.Tests.csproj", "{CB279E00-37BD-49A1-9171-D560A9572796}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NarcissisticNumber.Tests", "NarcissisticNumber.Tests\NarcissisticNumber.Tests.csproj", "{CB279E00-37BD-49A1-9171-D560A9572796}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
