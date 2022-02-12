@@ -6,14 +6,12 @@ namespace NarcisticNumber.Tests
     {
 
         [Test]
-        public void Test153()
+        [TestCase(153, ExpectedResult = true)]
+        [TestCase(1938, ExpectedResult = false)]
+        public bool Test153(int input)
         {
-            Assert.AreEqual(true, Narcissistic.IsNarcissistic(153));
+            return Narcissistic.IsNarcissistic(153);
         }
-        [Test]
-        public void Test1938()
-        {
-            Assert.AreEqual(false, Narcissistic.IsNarcissistic(1938));
-        }
+
     }
 }
