@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NarcissisticNumber", "Narci
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NarcissisticNumber.Tests", "NarcissisticNumber.Tests\NarcissisticNumber.Tests.csproj", "{CB279E00-37BD-49A1-9171-D560A9572796}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeComplement.Tests", "MakeComplement.Tests\MakeComplement.Tests.csproj", "{0989BFAD-3A85-49E9-8001-F3D3955BC7E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MakeComplement.Tests", "MakeComplement.Tests\MakeComplement.Tests.csproj", "{0989BFAD-3A85-49E9-8001-F3D3955BC7E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphabetPosition.Tests", "AlphabetPosition.Tests\AlphabetPosition.Tests.csproj", "{AB372DD3-43EA-49D6-AD30-D57CDD0B99B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{0989BFAD-3A85-49E9-8001-F3D3955BC7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0989BFAD-3A85-49E9-8001-F3D3955BC7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0989BFAD-3A85-49E9-8001-F3D3955BC7E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB372DD3-43EA-49D6-AD30-D57CDD0B99B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB372DD3-43EA-49D6-AD30-D57CDD0B99B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB372DD3-43EA-49D6-AD30-D57CDD0B99B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB372DD3-43EA-49D6-AD30-D57CDD0B99B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
